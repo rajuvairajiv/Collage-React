@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Collage-React/static/css/main.7bea3d25.css",
+    "main.js": "/Collage-React/static/js/main.127d1307.js",
+    "static/js/453.2b4fa6a1.chunk.js": "/Collage-React/static/js/453.2b4fa6a1.chunk.js",
+    "static/media/profile-pic.jpeg": "/Collage-React/static/media/profile-pic.3ac7caa44c26add2bd51.jpeg",
+    "static/media/bird1.jpeg": "/Collage-React/static/media/bird1.b805c5c251669da85e11.jpeg",
+    "static/media/ind2.jpeg": "/Collage-React/static/media/ind2.9106c573f8bd4fa13e17.jpeg",
+    "static/media/unvrs3.jpeg": "/Collage-React/static/media/unvrs3.d891263fb94d2bdeb30c.jpeg",
+    "static/media/frst4.jpeg": "/Collage-React/static/media/frst4.0cc3756a3f639659ba30.jpeg",
+    "static/media/mntn1.jpeg": "/Collage-React/static/media/mntn1.3300c880adb9534b79f6.jpeg",
+    "static/media/ocn1.jpeg": "/Collage-React/static/media/ocn1.f60614753d05872e1ab0.jpeg",
+    "static/media/grf.jpeg": "/Collage-React/static/media/grf.59c1338570009ee18c4d.jpeg",
+    "static/media/frst2.jpeg": "/Collage-React/static/media/frst2.1f28b6fc422ca9892f30.jpeg",
+    "static/media/frst1.jpeg": "/Collage-React/static/media/frst1.5b9276786870567f6610.jpeg",
+    "static/media/frst3.jpeg": "/Collage-React/static/media/frst3.b0e5e96270ede84d87c1.jpeg",
+    "static/media/ocn2.jpeg": "/Collage-React/static/media/ocn2.13f1d536c1aeb17c6b7e.jpeg",
+    "static/media/tiger.jpeg": "/Collage-React/static/media/tiger.ce8c9b242ec4a94e8c57.jpeg",
+    "static/media/ind1.jpeg": "/Collage-React/static/media/ind1.4cd6d7939b77f0293124.jpeg",
+    "static/media/chameleon.jpeg": "/Collage-React/static/media/chameleon.4651126994ddc2e9748c.jpeg",
+    "static/media/ocn4.jpeg": "/Collage-React/static/media/ocn4.7cb26ee5c514a662c835.jpeg",
+    "static/media/mntn4.jpeg": "/Collage-React/static/media/mntn4.3b1e4d676122f6ea994b.jpeg",
+    "static/media/ind3.jpeg": "/Collage-React/static/media/ind3.626911508fdf09985211.jpeg",
+    "static/media/ocn3.jpeg": "/Collage-React/static/media/ocn3.9c59d35a521fac56b4f8.jpeg",
+    "static/media/mntn2.jpeg": "/Collage-React/static/media/mntn2.080c084b1930279110ce.jpeg",
+    "static/media/unvrs4.jpeg": "/Collage-React/static/media/unvrs4.1f2c46a8131641c43cf6.jpeg",
+    "static/media/mntn3.jpeg": "/Collage-React/static/media/mntn3.7fa05b2294ab01dbb5c8.jpeg",
+    "static/media/bird2.jpeg": "/Collage-React/static/media/bird2.6aa290e06a04ee6af8cf.jpeg",
+    "static/media/bckgrnd.jpeg": "/Collage-React/static/media/bckgrnd.8e302452a1c94adcce16.jpeg",
+    "static/media/unvrs1.jpeg": "/Collage-React/static/media/unvrs1.14779957fb3015af9457.jpeg",
+    "static/media/ind4.jpeg": "/Collage-React/static/media/ind4.62149d2668f7710d11de.jpeg",
+    "static/media/unvrs2.jpeg": "/Collage-React/static/media/unvrs2.d5498d24a03e0c488ed2.jpeg",
+    "index.html": "/Collage-React/index.html",
+    "main.7bea3d25.css.map": "/Collage-React/static/css/main.7bea3d25.css.map",
+    "main.127d1307.js.map": "/Collage-React/static/js/main.127d1307.js.map",
+    "453.2b4fa6a1.chunk.js.map": "/Collage-React/static/js/453.2b4fa6a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bea3d25.css",
+    "static/js/main.127d1307.js"
+  ]
+}
