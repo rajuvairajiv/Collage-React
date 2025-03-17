@@ -1,0 +1,45 @@
+/* Container for image and text */
+.bannerone {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+/* Banner Image */
+.banner-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* H1 Text over the image */
+.banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 10px 20px;
+    z-index: 2;
+}
+
+.profile-section {
+    padding-top: 20px;
+}
+
+.profilePic {
+    width: 370px;
+    height: 370px;
+    margin-right: 15px;
+    float: left;
+
+}
+
+.biodata {
+    margin-top: 30px;
+}
+
+.biodata p {
+    justify-content: center;
+}

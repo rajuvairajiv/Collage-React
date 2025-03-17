@@ -1,0 +1,66 @@
+/* Basic Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    color: var(--text-color);
+    background-color: rgb(145, 145, 150);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+/* Brand */
+.navbar-left .brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+/* Links */
+.navbar-right {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: var(--text-color);
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+/* Hamburger Icon */
+.hamburger {
+    display: none;
+    font-size: 2rem;
+    cursor: pointer;
+    color: var(--text-color);
+}
+
+/* Small Screen: Hide links, show hamburger */
+@media screen and (max-width: 768px) {
+    .navbar-right {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        right: 20px;
+        background-color: var(--bg-color);
+        padding: 1rem;
+        border: 1px solid gray;
+    }
+
+    .navbar-right.open {
+        display: flex;
+    }
+
+    .hamburger {
+        display: block;
+    }
+}
