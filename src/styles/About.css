@@ -44,61 +44,62 @@
     justify-content: center;
 }
 
-@media only screen and (max-width: 768px) {
-  
-  /* Adjust Banner Image */
-  .bannerone {
-    height: 200px;
-  }
+@media (max-width: 768px) {
 
-  .banner-text {
-    font-size: 16px;
-    padding: 5px 10px;
-    text-align: center;
-  }
+    /* Banner Text - Adjust size & center properly */
+    .banner-text {
+        font-size: 16px;
+        padding: 5px 10px;
+        text-align: center;
+    }
 
-  /* Profile Pic Adjustments */
-  .profilePic {
-    width: 250px;
-    height: 250px;
-    float: none;
-    display: block;
-    margin: 0 auto 20px auto;
-  }
+    /* Profile Image - Full width on mobile, no float */
+    .profilePic {
+        width: 80%;
+        height: auto;
+        float: none;
+        display: block;
+        margin: 0 auto 20px auto;
+    }
 
-  .biodata {
-    padding: 10px;
-    text-align: center;
-  }
+    /* Bio Data Section - Adjust padding & text alignment */
+    .biodata {
+        padding: 10px;
+        text-align: center;
+    }
 
-  .biodata .div2 {
-    padding: 0 10px;
-  }
+    .biodata p {
+        font-size: 14px;
+        padding: 0 10px;
+        text-align: justify;
+    }
 
-  /* More Details Section */
-  .moredetail {
-    padding: 10px;
-    text-align: justify;
-  }
+    /* More Details Section - Consistent padding */
+    .moredetail {
+        padding: 10px;
+        text-align: center;
+    }
 
-  .moredetail h1 {
-    font-size: 20px;
-    text-align: center;
-  }
+    .moredetail p {
+        font-size: 14px;
+        padding: 0 10px;
+        text-align: justify;
+    }
 
-  .moredetail p {
-    font-size: 14px;
-  }
+    /* Ostrich Image Container - Make image responsive */
+    .container {
+        flex-direction: column;
+        width: 95% !important;
+        height: auto !important;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 
-  /* Ostrich Image Container */
-  .container div {
-    width: 90%;
-    height: auto;
-    margin: 0 auto;
-  }
-
-  .ostrich {
-    width: 100%;
-    height: auto;
-  }
+    .ostrich {
+        width: 100% !important;
+        height: auto !important;
+        object-fit: contain;
+    }
 }
